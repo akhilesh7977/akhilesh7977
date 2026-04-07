@@ -1,6 +1,6 @@
-# Hi 👋, I'm Akhilesh Prajapati
+#                          Hi 👋, I'm Akhilesh Prajapati
 
-### A passionate Data Analyst from Mumbai, India 🇮🇳
+###                     A passionate Data Analyst from Mumbai, India 🇮🇳
 
 💫 **About Me:**
 
