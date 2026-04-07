@@ -1,4 +1,4 @@
-#                          Hi 👋, I'm Akhilesh Prajapati
+<h3 align="center">A passionate Data Analyst from Mumbai, India</h3>
 
 ###                     A passionate Data Analyst from Mumbai, India 🇮🇳
 
