@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-💫 **About Me:**
+## 💫 About Me:
 
 I'm a Data Analyst with **1.5+ years** of professional experience and **4+ years** in data operations.
 I specialize in building interactive dashboards, writing complex SQL queries, and automating workflows
