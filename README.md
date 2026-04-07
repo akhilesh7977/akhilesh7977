@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="background-color:#2f66c9; color:white; padding:8px 16px; border-radius:6px;">
-    **Hi 👋, I'm Akhilesh Prajapati**
+    Hi 👋, I'm Akhilesh Prajapati
   </span>
 </h1>
 
