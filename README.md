@@ -20,7 +20,7 @@ to support data-driven business decisions.
 - **Data Analysis**: Applying DAX functions and statistical techniques to uncover trends and insights.  
 - **Advanced Excel**: Performing complex data analysis using Pivot Tables, VLOOKUP, and HLOOKUP.  
 
-### My expertise includes:
+### 🛠 Skills & Tools:
 - 📊 **Power BI**: DAX, Data Modelling, Interactive Dashboards, Report Publishing
 - 🗄️ **SQL/MySQL**: Joins, Subqueries, Aggregations, CRUD Operations
 - 📈 **Advanced Excel**: PivotTables, Power Query, Advanced Formulas, Automation
