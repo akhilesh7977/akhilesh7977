@@ -1,6 +1,10 @@
-<h3 align="center">Hi 👋, I'm Akhilesh Prajapati </h3>
+<h1 align="center">
+  <span style="background-color:#2f66c9; color:white; padding:8px 16px; border-radius:6px;">
+    **Hi 👋, I'm Akhilesh Prajapati**
+  </span>
+</h1>
 
-<h3 align="center">A passionate Data Analyst from Mumbai, India 🇮🇳 </h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 
 💫 **About Me:**
