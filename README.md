@@ -8,10 +8,12 @@ I'm a Data Analyst with **1.5+ years** of professional experience and **4+ years
 I specialize in building interactive dashboards, writing complex SQL queries, and automating workflows
 to support data-driven business decisions.
 
-**My expertise includes**:
--**ETL processes**: Using Power Query and SQL to clean and transform data.
--**Data Analysi**s: Applying DAX functions and statistical techniques to uncover trends.
--**Advanced Excel**: Complex data analysis with Pivot Tables, VLOOKUP, and HLOOKUP
+
+## 🚀 My Expertise
+
+- **ETL Processes**: Using Power Query and SQL to clean, transform, and prepare data for analysis.  
+- **Data Analysis**: Applying DAX functions and statistical techniques to uncover trends and insights.  
+- **Advanced Excel**: Performing complex data analysis using Pivot Tables, VLOOKUP, and HLOOKUP.  
 
 ### My expertise includes:
 - 📊 **Power BI**: DAX, Data Modelling, Interactive Dashboards, Report Publishing
