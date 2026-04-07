@@ -28,9 +28,11 @@ to support data-driven business decisions.
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh7977)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ak7977208891@gmail.com)
+## 📫 How to reach me:
+- 💼 LinkedIn: [linkedin.com/in/akhilesh7977](https://www.linkedin.com/in/akhilesh7977)
+- 📧 Email: [ak7977208891@gmail.com](mailto:ak7977208891@gmail.com)
+- 📱 Phone: +91 7977208891
+- 🐙 GitHub: [github.com/akhilesh7977](https://github.com/akhilesh7977)
 
 ---
 
